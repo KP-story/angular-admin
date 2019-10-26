@@ -1,0 +1,90 @@
+<p-treeTable #tt [value]="data" [columns]="colsdesc" [sortMode]="sortMode" [paginator]="paginator" [rows]="maxRowInPage"
+             [selectionMode]="selectionModeTable" [(selection)]="selectedNodes" [dataKey]="dataKey"
+             [totalRecords]="totalRecords"
+             [rowHover]="true" [lazy]="lazy" (onLazyLoad)="loadPageLazy.emit($event)" [loading]="loading"
+             (onNodeSelect)="nodeSelect.emit($event) ;this.selectedNodesChange.emit(this.selectedNodes);
+  " (onNodeUnselect)="nodeUnselect.emit($event);this.selectedNodesChange.emit(this.selectedNodes);">
+
+  <ng-template pTemplate="caption" *ngIf="showCaption">
+
+
+    <div class="row">
+
+
+      <div class="col-6 text-left" style="align-items: middle ;font-size: 1em ;" [ngSwitch]="selectionModeTable">
+
+        <div class="p-1">
+          <div *ngSwitchCase="'multiple'">
+            <button type="button" *ngIf="selectedNodes?.length" style="padding:2px" class="btn btn-primary btn-sm"
+                    (click)="selectAll()">{{'label.select_all'|translate}}</button>
+            <button type="button" *ngIf="selectedNodes?.length" style="padding:2px" class="btn btn-danger btn-sm"
+                    (click)="deselectAll()">{{'label.deselect_all'|translate}}</button>
+
+          </div>
+          <div *ngSwitchCase="'checkbox'">
+            <div style="text-align:left">
+              <p-treeTableHeaderCheckbox></p-treeTableHeaderCheckbox>
+              <span style="margin-left: .25em; vertical-align: middle">{{'label.toggle_select_all'|translate}}
+                </span>
+            </div>
+          </div>
+          <div *ngSwitchDefault>
+
+          </div>
+        </div>
+
+      </div>
+      <div class="col-6 text-right" *ngIf="isFilter">
+        <div style="text-align: right">
+          <i class="pi pi-search" style="margin:4px 4px 0 0"></i>
+          <input type="text" pInputText size="50" [placeholder]="'label.filter'|translate"
+                 (input)="tt.filterGlobal($event.target.value, 'contains')" style="width:80%">
+        </div>
+      </div>
+
+    </div>
+
+
+  </ng-template>
+  <ng-template pTemplate="header" let-columns *ngIf="showHeader">
+    <tr>
+      <th *ngFor="let col of columns" [ttSortableColumn]="col.field" [ngStyle]="{'width': col.width}">
+        {{col.header|translate}}
+        <p-treeTableSortIcon *ngIf="!lazy" [field]="col.field"></p-treeTableSortIcon>
+      </th>
+    </tr>
+    <tr>
+
+
+    </tr>
+  </ng-template>
+  <ng-template pTemplate="body" let-rowNode let-rowData="rowData" let-columns="columns">
+    <tr [ttContextMenuRow]="rowNode" [ttSelectableRow]="rowNode">
+      <td *ngFor="let col of columns; let i = index">
+        <p-treeTableToggler [rowNode]="rowNode" *ngIf="i == 0"></p-treeTableToggler>
+        <p-treeTableCheckbox [value]="rowNode" *ngIf="i == 0 && selectionModeTable=='checkbox'"></p-treeTableCheckbox>
+
+        <i class="pi pi-cog icon_hover" (click)="menu.toggle($event); menuSelectedNode=rowNode.node ;"
+           style=" vertical-align: middle;" *ngIf="i == 0&&menuItems?.length"></i>
+
+        <div *ngIf="isArray(rowData[col.field]) else single">
+          <span *ngFor="let value of rowData[col.field]">
+            <text-cell-table [title]="col.title" [fieldCell]="col.fieldCell" [cell]="value" [node]="rowNode.node"
+                             [decorations]="col.decoration"> </text-cell-table>
+
+          </span>
+        </div>
+
+        <ng-template #single>
+
+          <text-cell-table [title]="col.title" [cell]="rowData[col.field]" [fieldCell]="col.fieldCell"
+                           [node]="rowNode.node" [decorations]="col.decoration"></text-cell-table>
+
+        </ng-template>
+
+      </td>
+
+    </tr>
+  </ng-template>
+</p-treeTable>
+<p-menu #menu [popup]="true" appendTo="body" [model]="menuItems"></p-menu>

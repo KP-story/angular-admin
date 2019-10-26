@@ -1,0 +1,23 @@
+<guard-component [removePermission]="removePermission"
+                 [updatePermission]="updatePermission" [viewPermission]="viewPermission" [addPermission]="addPermission"
+                 [kingPermission]="kingPermission">
+  <div *ngIf="errorMsg" class="alert alert-danger">{{errorMsg}}</div>
+  <basic-table-view [canUpdate]="canUpdate" [extendMenuItems]="menuItems" (menuClick)="onMenuItemClick($event)"
+                    selectionMode="multiple"
+                    [isTreeTable]="false" header="header.operation" [colsdesc]="cols" [hasSearch]="false" dataKey="name"
+                    [data]="data" [searchFormDescription]="searchFormDescription"
+                    [updateFormDescription]="updateFormDescription"
+                    [createFormDescription]="createFormDescription" (applyUpdate)="update($event)"
+                    (applyCreate)="create($event)"
+                    [maxRowInPage]="50" [tableLoading]="tableLoading" [lazyTable]="false" [tablePaginator]="false"
+                    [totalRecords]="totalRecords" [fireSubmitSuccess]="fireSubmitSuccess"
+                    [fireSubmitFailed]="fireSubmitFailed"
+                    (removeButtonClick)="onRemoveButtonClick($event)" [multiRemove]="multiRemove"
+                    [removePermission]="removePermission" [updatePermission]="updatePermission"
+                    [viewPermission]="viewPermission"
+                    [addPermission]="addPermission" [kingPermission]="kingPermission">
+  </basic-table-view>
+  <p-toast [showTransitionOptions]="'0ms'" [style]="{marginTop: '80px'}" [hideTransitionOptions]="'0ms'"
+           position="top-right" [key]="httpToastrId"></p-toast>
+
+</guard-component>

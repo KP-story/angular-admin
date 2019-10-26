@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "",
+      "type": "com.kp.core.spring.admin.PropertiesWithJavaConfig",
+      "sourceType": "com.kp.core.spring.admin.PropertiesWithJavaConfig"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

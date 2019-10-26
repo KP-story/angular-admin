@@ -1,0 +1,6 @@
+<button (click)=" isLoading=true; clickBt.emit($event); loading(isLoading)" class="{{styleClass}}" type="button"
+        [disabled]="disabled || isLoading">
+  <i *ngIf="isLoading" class="spinner-border spinner-border-sm" role="status" aria-hidden="isLoading"></i>
+  <i *ngIf="!isLoading" class="{{icon}}"></i>
+  {{name}}
+</button>

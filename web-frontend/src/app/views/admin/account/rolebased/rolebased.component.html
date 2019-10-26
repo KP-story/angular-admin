@@ -1,0 +1,74 @@
+<guard-component
+
+  [removePermission]="removePermission"
+  [updatePermission]="updatePermission"
+  [viewPermission]="viewPermission"
+  [addPermission]="addPermission"
+  [kingPermission]="kingPermission"
+>
+
+
+  <div class="animated fadeIn">
+    <div class="row">
+      <div class="col-12">
+
+        <div class="card">
+          <div class="card-header  ">
+            <div class=".container-fluid">
+
+              <div class="row">
+                <div class="col-9" style="align-items: middle ;font-size: 1em ;">
+                  <span> {{header|translate}} </span>
+                </div>
+                <div class="col-3 text-right">
+                  <div class="btn-group mr-2 " role="group" aria-label="First group">
+
+                    <ng-container *kpPermissionsOnly="[kingPermission,removePermission]; reject rejectBlock">
+                      <button type="button" style="padding:2px" class="btn btn-primary btn-sm"
+                              (click)="isCollapsed = !isCollapsed ;  onButtonClick();  submission={data:{}};">{{(isCollapsed ? 'label.add' : 'label.cancel')|translate}}</button>
+                    </ng-container>
+                    <ng-template #rejectBlock>
+                      <button *ngIf="!isCollapsed" type="button" style="padding:2px" class="btn btn-primary btn-sm"
+                              (click)="isCollapsed = !isCollapsed ;">{{'label.cancel'|translate}}"
+                      </button>
+                    </ng-template>
+
+                  </div>
+
+                </div>
+              </div>
+
+            </div>
+
+
+          </div>
+          <div *ngIf="errorMsg" class="alert alert-danger">{{errorMsg}}</div>
+
+          <div class="card-body">
+            <div [collapse]="isCollapsed">
+              <div class="card card-body">
+                <formio-view [formDescription]="dynamicForm" [(submission)]="submission"
+                             (submit)="submitForm($event)" [fireSubmitSuccess]="fireSubmitSuccess"
+                             [fireSubmitFailed]="fireSubmitFailed"></formio-view>
+
+              </div>
+            </div>
+            <app-roles-permission [class.disabled]="disabledForm" (roleMenuClick)="onRoleMenuClick($event)"
+                                  (resourceMenuClick)="onResourceMenuClick($event)" [(roleSelection)]="roleSelection"
+                                  [(resourceSelection)]="resourceSelection" [resourceMenu]="resourceMenu"
+                                  [roleMenu]="roleMenu"
+                                  (requestFailed)="isUpdateRequest=false; onErrorClearly($event.requestName,$event.error);"
+                                  [fireReloadRole]="fireReloadRole" [canDeleteRole]="canDeleteRole"
+                                  (preSentRequest)="onPreSentRequest()"
+            ></app-roles-permission>
+          </div>
+        </div>
+
+
+      </div>
+    </div>
+
+  </div>
+  <p-toast [showTransitionOptions]="'0ms'" [style]="{marginTop: '80px'}" [hideTransitionOptions]="'0ms'"
+           position="top-right" [key]="httpToastrId"></p-toast>
+</guard-component>

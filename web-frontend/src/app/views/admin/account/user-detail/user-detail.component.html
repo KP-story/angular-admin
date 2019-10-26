@@ -1,0 +1,46 @@
+<tabset>
+  <div *ngIf="errorMsg" class="alert alert-danger">{{errorMsg}}</div>
+
+  <tab>
+    <ng-template tabHeading><i class="icon-calculator"></i> {{'header.profile' |translate}}</ng-template>
+    <formio-view (submit)="submit($event)" [fireSubmitSuccess]="fireSubmitSuccess" [fireSubmitFailed]="fireSubmitFailed"
+                 [formDescription]="formDescription" [(submission)]="submission"></formio-view>
+
+    <button type="button" (click)="resetPassword()" class="btn btn-link px-0">Reset password</button>
+
+  </tab>
+  <tab>
+    <ng-template tabHeading><i class="icon-basket-loaded"></i> {{'header.permission' |translate}}</ng-template>
+    <button [disabled]="!user" *kpPermissionsOnly="['account:role:*','account:role:update']" type="button"
+            class="btn btn-primary"
+            (click)="isCollapsed=!isCollapsed;   compareRole();      "
+            style="margin-bottom: 10px">{{(isCollapsed ? 'label.grant' : 'label.cancel')|translate}}</button>
+
+
+    <div [collapse]="isCollapsed">
+
+      <p-pickList (onMoveToTarget)="onMoveToTarget($event)" (onMoveToSource)="onMoveToSource($event)" [(source)]="roles"
+                  [(target)]="userRoles" sourceHeader="Available Role" targetHeader="Granted" [responsive]="true"
+                  filterBy="name"
+                  dragdrop="true" sourceFilterPlaceholder="Search by name" targetFilterPlaceholder="Search by name"
+                  [sourceStyle]="{'height':'200px'}" [targetStyle]="{'height':'200px'}">
+        <ng-template let-role pTemplate="item">
+          <div class="ui-helper-clearfix">
+            <div style="font-size:14px;float: left;margin:5px 5px 0 0">{{role.data.name}} </div>
+          </div>
+        </ng-template>
+      </p-pickList>
+    </div>
+
+
+    <app-roles-permission
+      [resourceMenu]="resourceMenu" [roleMenu]="roleMenu" [(roles)]="userRoles"
+      (requestFailed)="onErrorClearly($event.requestName,$event.error);"
+      [fireReloadRole]="fireReloadRole" (reloadCompelete)="onReloadRolesCompelete()" [isPersonal]="true"
+      [(user)]="user"></app-roles-permission>
+
+  </tab>
+
+</tabset>
+<p-toast [showTransitionOptions]="'0ms'" [style]="{marginTop: '80px'}" [hideTransitionOptions]="'0ms'"
+         position="top-right" [key]="httpToastrId"></p-toast>

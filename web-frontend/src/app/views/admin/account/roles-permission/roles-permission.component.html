@@ -1,0 +1,30 @@
+<div class="row">
+  <div class="col-4">
+    <objects-list-view [sortMode]="false"
+                       [isFilter]="false" [extendMenuItems]="roleMenu"
+                       (menuClick)="roleMenuClick.emit($event);onMenuClick($event);" selectionModeTable="single"
+                       [isTreeTable]="false"
+                       [dataKey]="'name'" [(data)]="roles" [colsdesc]="roleColumns"
+                       [(selectedNodes)]="roleSelection" [lazy]="false"
+                       [loading]="leftLoading" [showHeader]="true" [showCaption]="false"
+                       (nodeSelect)="onRoleSelect($event)" (nodeUnselect)="onRoleUnselect($event)"
+    >
+    </objects-list-view>
+  </div>
+
+
+  <div class="col-8">
+    <objects-list-view [sortMode]="false" [isFilter]="false" [extendMenuItems]="resourceMenu"
+                       (menuClick)="resourceMenuClick.emit($event)" selectionModeTable="single" [isTreeTable]="true"
+                       dataKey="name" [(data)]="resources" [colsdesc]="resourceColumns"
+                       [(selectedNodes)]="resourceSelection" [lazy]="false"
+                       [loading]="rightLoading" [showHeader]="true" [showCaption]="false"
+                       (nodeSelect)="onResourceSelect($event)" (nodeUnselect)="onResourceUnselect($event)"
+
+    >
+    </objects-list-view>
+  </div>
+</div>
+<p-confirmDialog key="deleteRoleConfirmDialog"
+                 icon="fa fa-question-circle" width="400">
+</p-confirmDialog>

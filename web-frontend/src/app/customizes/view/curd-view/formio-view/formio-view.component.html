@@ -1,0 +1,9 @@
+<div class="animated fadeIn">
+  <div class="row">
+    <div class="col-12">
+
+      <formio [success]="fireSubmitSuccess" [error]="fireSubmitFailed"
+              [form]="formDescription" (submit)="submit.emit($event)" [submission]="submission"></formio>
+    </div>
+  </div>
+</div>

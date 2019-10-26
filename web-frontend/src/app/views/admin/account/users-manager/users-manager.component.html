@@ -1,0 +1,44 @@
+<guard-component
+  [removePermission]="removePermission"
+  [updatePermission]="updatePermission"
+  [viewPermission]="viewPermission"
+  [addPermission]="addPermission"
+  [kingPermission]="kingPermission"
+>
+  <div *ngIf="errorMsg" class="alert alert-danger">{{errorMsg}}</div>
+
+  <ng-template #cuView>
+    <app-user-detail [reload]="reloadUserDetail" (userChange)="onUserChange()" [isCurrentUser]="false"
+                     [(user)]="userSelection"></app-user-detail>
+
+  </ng-template>
+
+  <basic-table-view [canUpdate]="canUpdate" [extendMenuItems]="menuItems" (menuClick)="onMenuItemClick($event)"
+                    selectionMode="multiple"
+                    [isTreeTable]="false" header="header.account_manager" [colsdesc]="cols" [hasSearch]="true"
+                    dataKey="name" [data]="data"
+                    [searchFormDescription]="searchFormDescription" [updateFormDescription]="updateFormDescription"
+                    [createFormDescription]="createFormDescription"
+                    (applyUpdate)="update($event)" (applyCreate)="create($event)" [maxRowInPage]="maxRowInPage"
+                    [tableLoading]="tableLoading" [lazyTable]="true" [tablePaginator]="true"
+                    (loadPageLazy)="loadPageLazy($event)"
+                    [totalRecords]="totalRecords" [fireSubmitSuccess]="fireSubmitSuccess"
+                    [fireSubmitFailed]="fireSubmitFailed"
+                    (applySearch)="search($event)"
+                    [cuView]="cuView"
+                    [fireSearchSuccess]="fireSearchSuccess" [fireSearchFailed]="fireSearchFailed"
+                    (viewItemClick)="onViewItem($event)"
+                    (newButtonClick)="onNewButtonClick()" (removeButtonClick)="onRemoveButtonClick($event)"
+                    [multiRemove]="multiRemove"
+                    [removePermission]="removePermission"
+                    [updatePermission]="updatePermission"
+                    [viewPermission]="viewPermission"
+                    [addPermission]="addPermission"
+                    [kingPermission]="kingPermission"
+  >
+
+  </basic-table-view>
+
+  <p-toast [showTransitionOptions]="'0ms'" [style]="{marginTop: '80px'}" [hideTransitionOptions]="'0ms'"
+           position="top-right" [key]="httpToastrId"></p-toast>
+</guard-component>

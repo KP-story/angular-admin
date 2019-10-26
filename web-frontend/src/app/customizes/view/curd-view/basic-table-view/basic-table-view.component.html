@@ -1,0 +1,86 @@
+<div class="animated fadeIn">
+  <div class="row">
+    <div class="col-12">
+      <div class="card">
+        <div class="card-header  ">
+          <div class=".container-fluid">
+            <div class="row">
+              <div class="col-9" style="align-items: middle ;font-size: 1em ;">
+                <span> {{header|translate}} </span>
+              </div>
+              <div class="col-3 text-right">
+                <div class="btn-group mr-2 " role="group" aria-label="First group">
+                  <ng-container *kpPermissionsOnly="[kingPermission,addPermission]; reject rejectBlock">
+                    <button type="button" style="padding:2px" class="btn btn-primary btn-sm"
+                            (click)="isCollapsed = !isCollapsed ; headerCu='header.create' ;isUpdate=false;reInitFormIo(); submission={data:{}} ;newButtonClick.emit('new');">{{(isCollapsed ? 'label.add' : 'label.cancel')|translate}}</button>
+                  </ng-container>
+                  <ng-template #rejectBlock>
+                    <button *ngIf="!isCollapsed" type="button" style="padding:2px" class="btn btn-primary btn-sm"
+                            (click)="isCollapsed = !isCollapsed ;">{{'label.cancel'|translate}}</button>
+                  </ng-template>
+
+
+                  <ng-container *kpPermissionsOnly="[kingPermission,removePermission]">
+                    <button type="button" *ngIf="selectedNodes?.length && multiRemove" style="padding:2px"
+                            class="btn btn-danger btn-sm"
+                            (click)="removeButtonClick.emit(selectedNodes);">{{'label.del'|translate}}</button>
+                  </ng-container>
+
+                </div>
+
+              </div>
+            </div>
+
+
+          </div>
+
+
+        </div>
+        <div class="card-body">
+
+          <div [collapse]="!isCollapsed||!hasSearch">
+            <div class="card card-body">
+              <formio-view (submit)="applySearch.emit($event)" [formDescription]="searchFormDescription"
+                           [fireSubmitSuccess]="fireSearchSuccess" [fireSubmitFailed]="fireSearchFailed"
+                           [(submission)]="searchSubmission"></formio-view>
+
+            </div>
+          </div>
+
+          <div [collapse]="isCollapsed">
+            <div class="card card-body">
+              <h2>{{headerCu|translate}}</h2>
+
+              <ng-template #formIoView>
+
+                <formio-view (submit)="isUpdate? applyUpdate.emit($event):applyCreate.emit($event)"
+                             [fireSubmitSuccess]="fireSubmitSuccess" [fireSubmitFailed]="fireSubmitFailed"
+                             [formDescription]="isUpdate? updateFormDescription:createFormDescription"
+                             [(submission)]="submission">
+                </formio-view>
+              </ng-template>
+              <ng-container *ngTemplateOutlet="cuView ? cuView: formIoView">
+
+              </ng-container>
+
+
+            </div>
+          </div>
+          <objects-list-view [extendMenuItems]="extendMenuItems"
+                             (menuClick)="menuClick.emit($event) ; onMenuClickEvent($event) ;"
+                             [selectionModeTable]="selectionMode"
+                             [isTreeTable]="isTreeTable" [dataKey]="dataKey" #objectsList [(data)]="data"
+                             [maxRowInPage]="maxRowInPage"
+                             [header]="header" [colsdesc]="colsdesc" [(selectedNodes)]="selectedNodes"
+                             (viewItem)="viewItem($event)"
+                             [lazy]="lazyTable" [totalRecords]="totalRecords" (loadPageLazy)="loadPageLazy.emit($event)"
+                             [loading]="tableLoading" [paginator]="tablePaginator">
+          </objects-list-view>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+<p-confirmDialog key="confirmDialog" icon="fa fa-question-circle" width="400">
+</p-confirmDialog>

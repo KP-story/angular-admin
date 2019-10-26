@@ -1,0 +1,34 @@
+<div class="row">
+  <div class="col-4">
+    <h1>role
+
+
+    </h1>
+    <objects-list-view [extendMenuItems]="extendMenuItems" (onMenuClick)="onMenuClick.emit($event)"
+                       [selectionModeTable]="selectionMode" [isTreeTable]="isTreeTable" [dataKey]="dataKey" #objectsList
+                       [(data)]="data"
+                       [maxRowInPage]="maxRowInPage" [header]="header" [colsdesc]="colsdesc"
+                       [(selectedNodes)]="selectedNodes"
+                       (viewItem)="viewItem($event)" [lazy]="lazyTable" [totalRecords]="totalRecords"
+                       (loadPageLazy)="loadPageLazy.emit($event)" [loading]="tableLoading" [paginator]="tablePaginator">
+    </objects-list-view>
+
+  </div>
+  <div class="col-8">
+    <h1>Permission
+
+
+    </h1>
+    <objects-list-view [extendMenuItems]="extendMenuItems" (onMenuClick)="onMenuClick.emit($event)"
+                       [selectionModeTable]="selectionMode" [isTreeTable]="isTreeTable" [dataKey]="dataKey" #objectsList
+                       [(data)]="data"
+                       [maxRowInPage]="maxRowInPage" [header]="header" [colsdesc]="colsdesc"
+                       [(selectedNodes)]="selectedNodes"
+                       (viewItem)="viewItem($event)" [lazy]="lazyTable" [totalRecords]="totalRecords"
+                       (loadPageLazy)="loadPageLazy.emit($event)" [loading]="tableLoading" [paginator]="tablePaginator">
+    </objects-list-view>
+
+  </div>
+
+
+</div>

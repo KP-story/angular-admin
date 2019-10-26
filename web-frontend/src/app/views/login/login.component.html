@@ -1,0 +1,76 @@
+<p-toast [showTransitionOptions]="'0ms'" [hideTransitionOptions]="'0ms'" position="top-right"
+         [key]="httpToastrId"></p-toast>
+
+<div class="app-body">
+  <main class="main d-flex align-items-center">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 mx-auto">
+          <div class="card-group">
+            <div class="card p-4">
+              <div class="card-body">
+                <form name="loginForm" #loginForm="ngForm">
+                  <h1>{{'label.login'|translate}}</h1>
+                  <p class="text-muted">{{'header.login'|translate}}</p>
+                  <small *ngIf="usernameForm.errors && usernameForm.touched"
+                         class="text text-danger">{{'localError.invalid_username'|translate}}</small>
+                  <div class="input-group mb-3">
+                    <div class="input-group-prepend">
+                      <span class="input-group-text"><i class="icon-user"></i></span>
+                    </div>
+                    <input (change)="onchange()" [disabled]="lockInput" type="text" pattern="^[a-zA-Z\d]*$" minlength=6
+                           [class.is-invalid]="usernameForm.errors && usernameForm.touched" #usernameForm="ngModel"
+                           name="username" required class="form-control" [(ngModel)]="username" type="text"
+                           [placeholder]="'label.username'|translate">
+                  </div>
+
+                  <small *ngIf="passwordForm.errors && passwordForm.touched"
+                         class="text text-danger">{{'localError.invalid_password'|translate}}</small>
+
+                  <show-hide-password [showTitle]="'label.show_password'|translate"
+                                      [hideTitle]="'label.hide_password'|translate">
+
+                    <input (change)="onchange()" [disabled]="lockInput" pattern="(?=.*[a-zA-Z])(?=.*[0-9]).*"
+                           minlength="6" [class.is-invalid]="passwordForm.errors && passwordForm.touched"
+                           #passwordForm="ngModel" name="password" required class="form-control" [(ngModel)]="password"
+                           [placeholder]="'label.password'|translate">
+
+
+                  </show-hide-password>
+
+
+                  <div *ngIf="errorMsg" class="alert alert-danger">{{errorMsg}}</div>
+                  <div class="row">
+                    <div class="col-6">
+                      <loading-button [id]="btLoginId" #submitbt (clickBt)="login()" styleClass="btn btn-primary"
+                                      [disabled]="loginForm.form.invalid ||lockInput" [name]="'label.login'|translate">
+
+                      </loading-button>
+
+                    </div>
+                    <div class="col-6 text-right">
+                      <button type="button" (click)="forgotPassword()"
+                              class="btn btn-link px-0">{{'label.forgot_password'|translate}}</button>
+                    </div>
+                  </div>
+
+                </form>
+              </div>
+            </div>
+            <div class="card text-white bg-primary py-5 d-md-down-none" style="width:44%">
+              <div class="card-body text-center">
+                <div>
+                  <h2>{{'description.app_name'|translate}}</h2>
+                  <p>{{'description.app_purpose'|translate}}</p>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+<app-language-selector>
+</app-language-selector>

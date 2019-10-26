@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="persistenceUnit/EclipseLink" uuid="a7d607e6-ea82-43c7-bdb1-ced88fa0a2e0">
+      <driver-ref>h2.unified</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>EclipseLink
+
+C:/Users/KHANH_LV/Dropbox/data/Source/example/AngularAdmin/web-backend/src/main/java/META-INF/persistence.xml</remarks>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:tcp://localhost:9092//home/khanh/Dropbox/data/Source/ReportAdmin/web-backend/reportWS/run/database</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="persistenceUnit/TopLink" uuid="91b5525a-9fba-45d0-a3bb-7f9334e3afce">
+      <driver-ref>h2.unified</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>TopLink
+
+C:/Users/KHANH_LV/Dropbox/data/Source/example/AngularAdmin/web-backend/src/main/java/META-INF/persistence.xml</remarks>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:tcp://localhost:9092//home/khanh/Dropbox/data/Source/ReportAdmin/web-backend/reportWS/run/database</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="persistenceUnit/Hibernate" uuid="33b86502-3ff7-4c3c-8048-8b052803c06a">
+      <driver-ref>h2.unified</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/KHANH_LV/Dropbox/data/Source/example/AngularAdmin/web-backend/src/main/java/META-INF/persistence.xml</remarks>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:tcp://localhost:9092//home/khanh/Dropbox/data/Source/ReportAdmin/web-backend/reportWS/run/database</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="persistenceUnit/OpenJPA" uuid="04855501-d91f-486c-903c-dc38c613cbcd">
+      <driver-ref>h2.unified</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>OpenJPA
+
+C:/Users/KHANH_LV/Dropbox/data/Source/example/AngularAdmin/web-backend/src/main/java/META-INF/persistence.xml</remarks>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:tcp://localhost:9092//home/khanh/Dropbox/data/Source/ReportAdmin/web-backend/reportWS/run/database</jdbc-url>
+    </data-source>
+  </component>
+</project>

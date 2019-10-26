@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://java.sun.com/xml/ns/persistence" version="2.0">
+
+    <persistence-unit name="persistenceUnit">
+        <class>com.kp.core.spring.admin.entities.SeOperation</class>
+        <class>com.kp.core.spring.admin.entities.SePermission</class>
+        <class>com.kp.core.spring.admin.entities.SeResource</class>
+        <class>com.kp.core.spring.admin.entities.SeRole</class>
+        <class>com.telsoft.core.spring.report.entities.SeRolePermissionEntity</class>
+        <class>com.telsoft.core.spring.report.entities.SeUserRoleEntity</class>
+        <class>com.kp.core.spring.admin.entities.AmUser</class>
+        <properties>
+            <property name="toplink.jdbc.url"
+                      value="jdbc:h2:tcp://localhost:9092//home/khanh/Dropbox/data/Source/ReportAdmin/web-backend/reportWS/run/database"/>
+            <property name="toplink.jdbc.driver" value="org.h2.Driver"/>
+            <property name="hibernate.connection.url"
+                      value="jdbc:h2:tcp://localhost:9092//home/khanh/Dropbox/data/Source/ReportAdmin/web-backend/reportWS/run/database"/>
+            <property name="hibernate.connection.driver_class" value="org.h2.Driver"/>
+            <property name="openjpa.ConnectionURL"
+                      value="jdbc:h2:tcp://localhost:9092//home/khanh/Dropbox/data/Source/ReportAdmin/web-backend/reportWS/run/database"/>
+            <property name="openjpa.ConnectionDriverName" value="org.h2.Driver"/>
+            <property name="eclipselink.jdbc.url"
+                      value="jdbc:h2:tcp://localhost:9092//home/khanh/Dropbox/data/Source/ReportAdmin/web-backend/reportWS/run/database"/>
+            <property name="eclipselink.jdbc.driver" value="org.h2.Driver"/>
+        </properties>
+    </persistence-unit>
+</persistence>

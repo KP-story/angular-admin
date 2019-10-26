@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="persistenceUnit/EclipseLink" uuid="a7d607e6-ea82-43c7-bdb1-ced88fa0a2e0">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="H2" exact-version="0" />
+      <schema-mapping />
+    </data-source>
+    <data-source name="persistenceUnit/TopLink" uuid="91b5525a-9fba-45d0-a3bb-7f9334e3afce">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="H2" exact-version="0" />
+      <schema-mapping />
+    </data-source>
+    <data-source name="persistenceUnit/Hibernate" uuid="33b86502-3ff7-4c3c-8048-8b052803c06a">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="H2" exact-version="0" />
+      <schema-mapping />
+    </data-source>
+    <data-source name="persistenceUnit/OpenJPA" uuid="04855501-d91f-486c-903c-dc38c613cbcd">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="H2" exact-version="0" />
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>

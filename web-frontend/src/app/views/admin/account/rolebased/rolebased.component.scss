@@ -1,0 +1,16 @@
+li {
+  height: 30px;
+}
+
+.small_size {
+  height: 20px;
+  font-size: 10px;
+  align-items: center;
+  padding: 2px
+
+}
+
+.disabled {
+  pointer-events: none;
+  opacity: 0.4;
+}

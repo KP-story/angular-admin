@@ -1,0 +1,1240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c7ba545-e4fc-401a-aa37-a945e28853d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../java/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.mylyn/.taskListIndex/segments.gen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.mylyn/.taskListIndex/segments_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.mylyn/_tasks.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.mylyn/repositories.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.mylyn/tasks.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.ant.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.history/1d/c0d1587c5c4f001619c5bd00e6e3adf2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.history/2/60315d45674f001619c5bd00e6e3adf2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.history/34/904d2838674f001619c5bd00e6e3adf2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.history/5c/b08fb8df634f001619c5bd00e6e3adf2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.history/6/d0f71d77664f001619c5bd00e6e3adf2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.history/69/309546cabf4f00161b0ce7f4f059a086" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.history/6d/d08964495c4f001619c5bd00e6e3adf2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.history/71/90cf38edbf4f00161b0ce7f4f059a086" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.history/88/60f995865c4f001619c5bd00e6e3adf2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.history/9f/f0de4d1c674f001619c5bd00e6e3adf2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.history/a0/f0e984585c4f001619c5bd00e6e3adf2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.history/a2/10180ff3664f001619c5bd00e6e3adf2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.history/a7/80b74a6bc14f00161b0ce7f4f059a086" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.history/b9/b0dcae1c896300161cf592af2787ac67" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.history/c4/c03c17d9c14f00161b0ce7f4f059a086" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.history/cd/103ad3c15c4f001619c5bd00e6e3adf2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.history/cf/d04723f6644f001619c5bd00e6e3adf2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.history/d4/b0aedbae664f001619c5bd00e6e3adf2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.history/de/500bfebc5c4f001619c5bd00e6e3adf2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.history/e/5066a722c04f00161b0ce7f4f059a086" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.history/e1/f07cbd68c14f00161b0ce7f4f059a086" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.history/e9/702206aac14f00161b0ce7f4f059a086" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.history/ea/e03b9290664f001619c5bd00e6e3adf2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.history/f/50315dd9bf4f00161b0ce7f4f059a086" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.history/f4/10db86b85c4f001619c5bd00e6e3adf2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.history/f4/a081c46be04e00161c3f90abf8f9b0af" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.history/f5/a0a57abfc04f00161b0ce7f4f059a086" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.history/fc/0006a9833550001611168a21e5aa00af" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.history/fd/d0fb8b27674f001619c5bd00e6e3adf2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.history/fd/f05e1ba3654f001619c5bd00e6e3adf2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.jdt.core.external.folders/_location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/CoreServerSocial/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/CoreServerSocial/_markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/GaiaGiftCode/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/GaiaGiftCode/_location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/GaiaMerchant/.indexes/af/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/GaiaMerchant/_markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/GaiaMerchant/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/GaidGiftCode/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/GaidGiftCode/2.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/GaidGiftCode/_location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/GaidGiftCode/_markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/GaidGiftCode/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/Mario/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/Mario/_location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/Mario/_markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/Mario/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/Mario/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/NHBCommon/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/NHBCommon/_location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/NHBCommon/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/NHBCommon/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/NHBCommonDB/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/NHBCommonDB/_location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/NHBCommonDB/_markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/NHBCommonDB/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/NHBCommonDB/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/NHBCommonEncrypt/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/NHBCommonEncrypt/_location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/NHBCommonEncrypt/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/NHBCommonEncrypt/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/NHBCommonGeo/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/NHBCommonGeo/_location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/NHBCommonGeo/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/NHBCommonGeo/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/NHBCommonMessaging/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/NHBCommonMessaging/_location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/NHBCommonMessaging/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/NHBCommonMessaging/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/NHBCommonPredicate/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/NHBCommonPredicate/_location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/NHBCommonPredicate/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/NHBCommonPredicate/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/TestHttpGateway/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/TestHttpGateway/_location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/TestHttpGateway/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/TestHttpGateway/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/TestKafkaGateway/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/TestKafkaGateway/_location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/TestKafkaGateway/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/TestKafkaGateway/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/TestRPMQ/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/TestRPMQ/_location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/TestRPMQ/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/TestRabbitMQ/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/TestRabbitMQ/_location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/TestRabbitMQ/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/TestRabbitMQ/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/TestSocketGateway/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/TestSocketGateway/_location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/TestSocketGateway/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.projects/TestSocketGateway/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.root/17.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ant.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ant.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.logging.aeri.ide.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.mpc.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.debug.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.java.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.pde.api.tools.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.recommenders.completion.rcp.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.recommenders.rcp.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.sse.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.ws.service.policy.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.xml.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.debug.core/.launches/EchoApplication.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.debug.core/.launches/GaiXinhConfig.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.debug.core/.launches/GaiXinhs.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.debug.core/.launches/GaiaGiftCode build.xml.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.debug.core/.launches/GaidGiftCode build.xml.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.debug.core/.launches/HttpServer.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.debug.core/.launches/InitDataBaseTest.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.debug.core/.launches/MainPoint.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.debug.core/.launches/Mario.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.debug.core/.launches/TblTest.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.debug.core/.launches/Test.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.debug.core/.launches/Test2.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.debug.core/.launches/extension.xml.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.egit.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.fdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.fdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.fnm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.frq" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.nrm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.tii" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.tis" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/segments.gen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/segments_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_3.fdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_3.fdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_3.fnm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_3.frq" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_3.nrm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_3.prx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_3.tii" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/segments.gen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/segments_4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/.org.eclipse.jdt.core.external.folders/_project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1007193198.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1013254405.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1032823710.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1038405278.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1067751776.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1083703597.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/109138765.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1098988733.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1121208244.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1124664045.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1126843071.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/113543679.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1153403165.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1170101094.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1174445933.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1204439501.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1222540534.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/122422342.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/123689479.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/12417758.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1245719891.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1257088763.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1257564556.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1264920953.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1266180581.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1269307157.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1274838375.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1279148078.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1287137897.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1314366997.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1323544460.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1333151881.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1338533898.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1338614285.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1339647526.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1347009410.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1348387325.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1350544336.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1361468274.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1363044072.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1378261912.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/141295109.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1416051540.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1424996157.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1430555642.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1435168441.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1446393504.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1451296278.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/145160240.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1482726089.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1484076330.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1486411379.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1486648846.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1486766373.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/15040291.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1505596720.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1507339265.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1522043005.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1535935128.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1535971974.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1536264783.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1547994127.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1548281934.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1556209507.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1561026328.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1564731504.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1581183441.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1583749204.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1587779511.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1589551497.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1591587759.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1592897531.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1593673412.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1593800981.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1610776710.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1628501569.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1630336388.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1630848587.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1638702174.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1645428919.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1651031120.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1651349548.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/166747528.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1670528678.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1677812921.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1695989937.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/172141886.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/172593538.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1731065918.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1735090844.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1736520926.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1738255971.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1742085487.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1750109250.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/176409660.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1768660463.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1800438347.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/181409109.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/184450495.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1851668056.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1853483438.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1862611763.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1875111658.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1880160692.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1897012616.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1899160284.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/190135175.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/193217279.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1940849254.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1942234983.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1948745554.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1949701513.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1951347123.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1958268036.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1958586471.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1970195275.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1975781789.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/197677035.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1977286863.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/1994776912.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2024135280.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2047389578.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2053660103.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2057910003.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2066523497.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2066775985.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2067920942.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2068199087.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2068919986.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2069491952.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2070719524.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2086924847.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2089191125.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2090129290.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2121937192.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2125396533.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2130235038.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2131240925.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2142236258.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/21486501.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2156754801.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2157433744.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2168055626.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2173726253.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2184859557.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2189977201.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2210818152.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2213256348.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2223780669.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2246069128.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2246850468.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/225337355.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2261558828.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2263475449.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2267278055.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2269173194.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2286285298.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2307865848.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2326690002.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/233135385.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2336354298.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2347000804.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2353035631.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2353289209.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2362371070.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2389985402.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2409200576.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2409618968.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2431396691.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2433726555.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2440466649.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/245031026.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2455791477.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2466587413.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2468055496.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2478259468.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2498181424.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2505900945.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2513608435.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2540070153.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2542714318.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/254542211.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2547417496.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2555374797.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/255976410.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2562910859.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2570471832.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2575069798.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2575273561.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2591315984.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2607647192.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2612412206.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2625671711.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2627035553.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2657013646.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2666794681.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2675743934.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2679146164.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2701581636.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2706814407.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2709655776.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2714877692.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2719558715.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2729589262.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2742090997.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2762796109.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2789864091.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2797725786.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2826823786.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2839437238.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2853171146.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2893969189.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2900294596.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2910717838.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2913014396.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2925141785.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2926612139.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2943006817.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2945162093.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2946418614.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/295495590.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2969051244.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2975697131.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/2990046586.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3009882471.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3025007759.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3027136706.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3039905615.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3040942872.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3052242909.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3054926385.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3059234854.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/306174181.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3069157400.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3079857729.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3096425742.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3098032072.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3104133665.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3105620032.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3158253790.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3179953034.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3201466447.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3210684584.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3212461308.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/321303852.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/322980761.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3257941920.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3261032790.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3271628545.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3274950269.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3277809830.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3278198733.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3293407070.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3300211518.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3300989250.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3304553495.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3316673664.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3333023420.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3342783590.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3354459404.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3371486314.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3374500403.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3383066808.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3399803990.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3400450746.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3410971488.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3412836709.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3425741763.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3432462163.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3456483293.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3478865265.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3498227154.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3498498242.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3545901871.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3550930481.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3551724073.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/355707804.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3562772498.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3570659500.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3575338688.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3598372973.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3600714372.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3608884278.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3610277288.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3618832045.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3621897571.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3625641696.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/36295992.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3636480360.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3659300506.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3670739155.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3676761495.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3678980623.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3688881217.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3691943967.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3696397237.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3707326260.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3707824152.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3708383414.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3756302400.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3764404749.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3770045400.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3789372930.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3806998266.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3820591712.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3829453046.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3845526819.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3856439342.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3860631669.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/386080458.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3876561862.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3902643245.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3916697806.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3924228425.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3926316859.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3930511455.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3934193927.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3960198577.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3961783687.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3964923001.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3975545892.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/3992513546.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/4004808074.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/4020198621.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/402328405.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/4024485711.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/4026609453.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/4028069186.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/4035072909.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/4060210149.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/4064925709.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/4086758949.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/409298016.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/409933671.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/4104424607.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/4113316451.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/4114301874.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/4134622681.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/4142306923.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/4143820657.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/4158657426.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/4163494320.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/4176863516.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/418310065.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/4184109790.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/4191632150.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/4196402704.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/4216846682.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/4217478775.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/4236009997.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/4243254011.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/424447496.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/4248927749.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/4257725086.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/4261739145.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/4264445079.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/4267835964.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/430205200.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/435878668.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/459086546.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/473053582.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/47423239.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/478008050.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/485635154.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/489395871.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/489433418.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/495300164.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/499087510.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/509712851.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/519267719.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/527170664.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/527970450.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/533852153.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/537553682.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/548259845.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/574071932.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/577586607.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/60255299.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/61381285.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/613950119.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/618818147.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/642642872.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/644127193.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/653547048.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/655459402.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/656361401.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/677828680.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/678122805.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/684453107.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/687055788.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/687728743.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/699159875.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/699245563.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/702946840.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/714864920.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/718533308.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/72276333.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/724878190.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/744284458.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/748470249.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/750470380.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/753153132.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/759179877.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/770054361.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/773177296.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/77680666.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/780048059.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/799925382.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/800475661.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/823731992.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/827239240.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/82784888.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/83085761.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/831470176.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/840296868.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/854353447.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/862928653.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/873475520.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/879155480.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/880141224.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/887640405.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/900771366.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/915600763.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/920997346.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/925287404.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/926232197.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/927287929.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/973607404.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/976121132.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/978973775.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/988004347.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/992076506.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/indexNamesMap.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.debug.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.launching/_install.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.jst.jsp.core/taglibindex/920997346.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2016/7/31/refactorings.history.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2016/7/31/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/CoreServerSocial/2016/7/30/refactorings.history.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/CoreServerSocial/2016/7/30/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/CoreServerSocial/2016/7/31/refactorings.history.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/CoreServerSocial/2016/7/31/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/GaiaGiftCode/2016/7/31/refactorings.history.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/GaiaGiftCode/2016/7/31/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/GaidGiftCode/2016/7/31/refactorings.history.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/GaidGiftCode/2016/7/31/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Mario/2016/7/31/refactorings.history.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Mario/2016/7/31/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/TestKafkaGateway/2016/7/31/refactorings.history.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/TestKafkaGateway/2016/7/31/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/TestRPMQ/2016/7/31/refactorings.history.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/TestRPMQ/2016/7/31/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/GaiaGiftCode.lifecyclemapping" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/TestRPMQ.lifecyclemapping" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_k.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_k_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_l.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_l_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_m.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_m_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_n.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_n_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_o.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments.gen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments_o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_14.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_14_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_15.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_15_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_16.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments.gen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments_14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/ca42e7eb076de4dae27d66026486c239/_bo.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/ca42e7eb076de4dae27d66026486c239/_bo_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/ca42e7eb076de4dae27d66026486c239/_bp.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/ca42e7eb076de4dae27d66026486c239/_bp_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/ca42e7eb076de4dae27d66026486c239/_bq.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/ca42e7eb076de4dae27d66026486c239/_bq_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/ca42e7eb076de4dae27d66026486c239/_br.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/ca42e7eb076de4dae27d66026486c239/_br_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/ca42e7eb076de4dae27d66026486c239/_bs.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/ca42e7eb076de4dae27d66026486c239/_bs_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/ca42e7eb076de4dae27d66026486c239/_bt.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/ca42e7eb076de4dae27d66026486c239/_bt_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/ca42e7eb076de4dae27d66026486c239/_bu.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/ca42e7eb076de4dae27d66026486c239/_bu_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/ca42e7eb076de4dae27d66026486c239/_bv.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/ca42e7eb076de4dae27d66026486c239/_bv_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/ca42e7eb076de4dae27d66026486c239/_bw.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/ca42e7eb076de4dae27d66026486c239/segments.gen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/ca42e7eb076de4dae27d66026486c239/segments_as" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/nexus/ca42e7eb076de4dae27d66026486c239/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.core/workspacestate.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.jdt/CoreServerSocial.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.jdt/GaiaGiftCode.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.jdt/TestRPMQ.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0[Conflict].log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.6.2.20150902-0002.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.pde.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.rse.core/_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.rse.core/initializerMarks/org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.desktop-ea8h368_32616/FP.local.files_0/node.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.desktop-ea8h368_32616/H.local_16/node.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.desktop-ea8h368_32616/node.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.rse.ui/_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.ui.editors/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.ui.workbench.texteditor/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/baseBrowserLibrary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/browserWindow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/dom5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/system.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/xhr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.wst.jsdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.wst.jsdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.wst.sse.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.wst.xml.core/default_catalog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.wst.xml.core/system_catalog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/.plugins/org.eclipse.wst.xsl.jaxp.launching/launch/launch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/_bak_0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/_bak_1.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/_bak_2.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/_bak_4.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/_bak_5.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/_bak_6.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/_bak_7.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/_bak_8.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/_lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.metadata/version.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.recommenders/caches/identified-project-coordinates.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.recommenders/caches/manual-mappings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.recommenders/index/http___download_eclipse_org_recommenders_models_mars_/_8.fdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.recommenders/index/http___download_eclipse_org_recommenders_models_mars_/_8.fdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.recommenders/index/http___download_eclipse_org_recommenders_models_mars_/_8.fnm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.recommenders/index/http___download_eclipse_org_recommenders_models_mars_/_8.frq" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.recommenders/index/http___download_eclipse_org_recommenders_models_mars_/_8.nrm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.recommenders/index/http___download_eclipse_org_recommenders_models_mars_/_8.prx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.recommenders/index/http___download_eclipse_org_recommenders_models_mars_/_8.tii" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.recommenders/index/http___download_eclipse_org_recommenders_models_mars_/_8.tis" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.recommenders/index/http___download_eclipse_org_recommenders_models_mars_/segments.gen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/.recommenders/index/http___download_eclipse_org_recommenders_models_mars_/segments_9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/.idea/libraries/Maven__net_jodah_lyra_0_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/async/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/async/MessageProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/data/vo/HostAndPort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/data/vo/UserNameAndPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/target/classes/com/kp/async/Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/target/classes/com/kp/async/MessageProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/target/classes/com/kp/common/data/vo/HostAndPort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/target/classes/com/kp/common/data/vo/UserNameAndPassword.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/src/main/java/com/kp/com/kp/messaging/MessageProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/src/main/java/com/kp/com/kp/messaging/MessagingModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/target/classes/com/kp/com/kp/messaging/MessageProducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/target/classes/com/kp/com/kp/messaging/MessagingModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/target/classes/com/kp/com/kp/messaging/rabbit/client/RabbitMQChannelHandleDelegate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/target/classes/com/kp/com/kp/messaging/rabbit/client/RabbitMQChannelHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/target/classes/com/kp/com/kp/messaging/rabbit/client/RabbitMQChannelWrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/target/classes/com/kp/com/kp/messaging/rabbit/client/RabbitMQDeliveredMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/target/classes/com/kp/com/kp/messaging/rabbit/client/RabbitMQQueueConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/target/classes/com/kp/com/kp/messaging/rabbit/client/connection/LoadBalancingStrategy$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/target/classes/com/kp/com/kp/messaging/rabbit/client/connection/LoadBalancingStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/target/classes/com/kp/com/kp/messaging/rabbit/client/connection/RabbitMQConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/target/classes/com/kp/com/kp/messaging/rabbit/client/connection/RabbitMQConnectionFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/target/classes/com/kp/com/kp/messaging/rabbit/client/connection/RabbitMQConnectionGen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/target/classes/com/kp/com/kp/messaging/rabbit/client/connection/WrapRabbitMQConnectPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/target/classes/com/kp/com/kp/messaging/rabbit/client/consumer/RabbitMQConsumer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/target/classes/com/kp/com/kp/messaging/rabbit/client/consumer/RabbitMQConsumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/target/classes/com/kp/com/kp/messaging/rabbit/client/consumer/RabbitMQRPCConsumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/target/classes/com/kp/com/kp/messaging/rabbit/client/consumer/RabbitMQRoutingConsumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/target/classes/com/kp/com/kp/messaging/rabbit/client/consumer/RabbitMQWorkerConsumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/target/classes/com/kp/com/kp/messaging/rabbit/client/producer/RabbitMQProducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/target/classes/com/kp/com/kp/messaging/rabbit/client/producer/RabbitMQRPCProducer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/target/classes/com/kp/com/kp/messaging/rabbit/client/producer/RabbitMQRPCProducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/target/classes/com/kp/com/kp/messaging/rabbit/client/producer/RabbitMQRoutingProducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/target/classes/com/kp/com/kp/messaging/rabbit/client/producer/RabbitMQRoutingRPCProducer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/target/classes/com/kp/com/kp/messaging/rabbit/client/producer/RabbitMQRoutingRPCProducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/target/classes/com/kp/com/kp/messaging/rabbit/client/producer/RabbitMQTaskProducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/target/classes/com/kp/com/kp/messaging/rabbit/client/producer/RabbitProducerFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/target/classes/com/kp/com/kp/messaging/rabbit/client/producer/RabbitProducerPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/target/classes/com/kp/messaging.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPTaskmanager/src/main/java/com/kp/taskmanager/network/codec/JsonStringMessageParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/KPCore/KPTaskmanager/target/classes/com/kp/taskmanager/network/codec/JsonStringMessageParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/.idea/dataSources/b59c0c2f-8384-4f03-aa90-0812f98ce18c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/.idea/libraries/Hibernate_5_4_2_5_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/.idea/libraries/JPA_2_0_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/.idea/libraries/cach2k.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/.idea/libraries/groovy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/.idea/libraries/httpclient.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/.idea/libraries/jedis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/.idea/libraries/jsonsmart.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/.idea/libraries/klib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/.idea/libraries/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/.idea/libraries/smslib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/.idea/libraries/telsoftlib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/Simbox.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/FastInfoset-1.2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/HikariCP-3.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/byte-buddy-1.9.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/cach2k/cache2k-api-1.2.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/cach2k/cache2k-base-bom-1.2.0.Final.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/cach2k/cache2k-core-1.2.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/classmate-1.3.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/commons-codec-1.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/commons-codec-1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/commons-io-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/commons-net-3.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/commons-pool2-2.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/disruptor-3.3.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/dom4j-2.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/groovy/groovy-all-2.4.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/hibernate-commons-annotations-5.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/hibernate-core-5.4.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/httpclient/commons-codec-1.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/httpclient/httpclient-4.5.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/httpclient/httpcore-4.4.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/istack-commons-runtime-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/jackson-annotations-2.9.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/jackson-core-2.9.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/jackson-databind-2.9.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/jandex-2.0.5.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/javassist-3.24.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/jaxb-api-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/jaxb-runtime-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/jedis/jedis-3.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/jsonsmart/accessors-smart-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/jsonsmart/json-smart-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/klib/KCommon.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/klib/KScripting.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/klib/Networking.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/log4j/log4j-1.2-api-2.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/log4j/log4j-api-2.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/log4j/log4j-core-2.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/log4j/log4j-slf4j-impl-2.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/log4j/slf4j-api-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/lombok-1.16.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/netty-all-4.1.34.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/reflections-0.9.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/reflections-0.9.9-RC1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/slf4j-api-1.7.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/smslib/RXTXcomm.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/smslib/comm.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/smslib/smslib-3.5.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/stax-ex-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/telsoftlib/gw_commons.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/telsoftlib/gw_core.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/telsoftlib/hessian-4.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/telsoftlib/javassist-3.12.1.GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/telsoftlib/jcl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/telsoftlib/lz4-java-1.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/telsoftlib/snappy-java-1.1.7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/telsoftlib/telsoft_admin_srv.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/telsoftlib/telsoft_commons.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/telsoftlib/telsoft_srv.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/telsoftlib/trilead-ssh2-build213.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/lib/txw2-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/bean/Activity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/bean/ActivityLog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/bean/Sim.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/bean/TblSimEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/bean/TransactionObj.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/bean/VourcherTransaction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/configuration/ATTemplateConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/configuration/PeerCfg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/configuration/RedisCfg$QueueCfg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/configuration/RedisCfg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/configuration/Telco.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/dao/ActivityLog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/dao/KDBParameter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/dao/QueryListerner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/dao/SimInfor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/dao/VoucherChargingLog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/redis/RedisQueue$RedisEntry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/redis/RedisQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/statistic/Statistic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/statistic/StatisticRecorder$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/statistic/StatisticRecorder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/task/KThread$STATE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/task/KThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/task/SequenceManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/task/TaskManager$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/task/TaskManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/task/impl/SimModule.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/tcp/ATMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/tcp/ATMessageParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/tcp/NettyPeer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/tcp/NettyPeer$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/tcp/NettyPeer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/tcp/SimboxTcpClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/tcp/SmsLibPeer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/tcp/http/AdminHTTPClient$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/tcp/http/AdminHTTPClient$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/tcp/http/AdminHTTPClient$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/com/k/simbox/tcp/http/AdminHTTPClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/org/smslib/modem/IPModemDriver$Peeker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/out/production/Simbox/org/smslib/modem/IPModemDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/run/.auth/system.passwd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/run/action.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/run/changed.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/run/config.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/run/configuration/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/run/configuration/server.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/run/configuration/thread/T3602@simgsm1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/run/log/general/manager.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/run/log/general/others-04-20-2019-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/run/log/general/others-04-21-2019-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/run/log/general/others-04-22-2019-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/run/log/general/others-04-23-2019-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/run/log/general/others.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/run/log/general/telsoft_lib-04-20-2019-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/run/log/general/telsoft_lib-04-22-2019-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/run/log/general/telsoft_lib-04-23-2019-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/run/log/general/telsoft_lib.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/run/log/sim1/20190423.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/run/log/sim1/20190424.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/run/servers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/run/threadmonitor/ThreadManager.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/com/k/simbox/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/com/k/simbox/bean/Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/com/k/simbox/bean/ActivityLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/com/k/simbox/bean/Sim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/com/k/simbox/bean/TblSimEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/com/k/simbox/bean/TransactionObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/com/k/simbox/bean/VourcherTransaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/com/k/simbox/configuration/ATTemplateConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/com/k/simbox/configuration/PeerCfg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/com/k/simbox/configuration/RedisCfg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/com/k/simbox/configuration/Telco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/com/k/simbox/dao/ActivityLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/com/k/simbox/dao/KDBParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/com/k/simbox/dao/QueryListerner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/com/k/simbox/dao/SimInfor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/com/k/simbox/dao/VoucherChargingLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/com/k/simbox/redis/RedisQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/com/k/simbox/statistic/Statistic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/com/k/simbox/statistic/StatisticRecorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/com/k/simbox/task/KThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/com/k/simbox/task/SequenceManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/com/k/simbox/task/TaskManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/com/k/simbox/task/impl/SimModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/com/k/simbox/tcp/ATMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/com/k/simbox/tcp/ATMessageParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/com/k/simbox/tcp/NettyPeer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/com/k/simbox/tcp/SimboxTcpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/com/k/simbox/tcp/SmsLibPeer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/com/k/simbox/tcp/http/AdminHTTPClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/Simbox/src/org/smslib/modem/IPModemDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-backend/run/database.trace.db" beforeDir="false" afterPath="$PROJECT_DIR$/../web-backend/run/database.trace.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-backend/src/main/java/com/kp/core/spring/admin/config/exception/CommandFailureException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-backend/src/main/java/com/kp/core/spring/admin/config/exception/CommandFailureException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-backend/src/main/java/com/kp/core/spring/admin/config/validation/DateBetweenConstraint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-backend/src/main/java/com/kp/core/spring/admin/config/validation/DateBetweenConstraint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-backend/src/main/java/com/kp/core/spring/admin/config/validation/DateBetweenValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-backend/src/main/java/com/kp/core/spring/admin/config/validation/DateBetweenValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-backend/src/main/java/com/kp/core/spring/admin/config/validation/TrimSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-backend/src/main/java/com/kp/core/spring/admin/config/validation/TrimSpace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-backend/src/main/java/com/kp/core/spring/admin/config/validation/ValidDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-backend/src/main/java/com/kp/core/spring/admin/config/validation/ValidDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-backend/src/main/java/com/kp/core/spring/admin/config/validation/ValidDateValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-backend/src/main/java/com/kp/core/spring/admin/config/validation/ValidDateValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-backend/src/main/java/com/kp/core/spring/admin/constants/Const.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-backend/src/main/java/com/kp/core/spring/admin/constants/Const.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-backend/src/main/java/com/kp/core/spring/admin/dao/custom/CustomRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-backend/src/main/java/com/kp/core/spring/admin/dao/custom/CustomRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-backend/src/main/java/com/kp/core/spring/admin/services/AbstractCustomServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-backend/src/main/java/com/kp/core/spring/admin/services/AbstractCustomServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-backend/src/main/java/com/kp/core/spring/admin/utilities/GenClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-backend/src/main/java/com/kp/core/spring/admin/utilities/GenClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-backend/src/main/java/com/kp/core/spring/admin/utilities/ObjectUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-backend/src/main/java/com/kp/core/spring/admin/utilities/ObjectUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPCache/KPCache.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCache/KPCache.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPCache/src/main/java/com/kp/cache/hazelcast/HazelcastCfg.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCache/src/main/java/com/kp/cache/hazelcast/HazelcastCfg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPCache/src/main/java/com/kp/cache/hazelcast/IdDataSerializable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCache/src/main/java/com/kp/cache/hazelcast/IdDataSerializable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/KPCommon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/KPCommon.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/async/ASyncManageableObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/async/ASyncManageableObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/anotation/DefaultSetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/anotation/DefaultSetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/anotation/Transparent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/anotation/Transparent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/data/message/IMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/data/message/IMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/data/message/MessageHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/data/message/ObjectHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/log/Loggable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/log/Loggable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/security/rsa/KeyPairHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/security/rsa/KeyPairHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/security/rsa/RSAEncryptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/security/rsa/RSAEncryptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/security/rsa/SignatureHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/security/rsa/SignatureHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/utilities/Converter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/utilities/Converter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/utilities/FileSystemUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/utilities/FileSystemUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/utilities/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/utilities/StringUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/utilities/TBCDUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/utilities/TBCDUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/worker/KWorkerPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/worker/KWorkerPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/worker/impl/DisruptorWorkerPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/worker/impl/DisruptorWorkerPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/worker/impl/KWorkerHanlder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/worker/impl/KWorkerHanlder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/common/worker/message/KMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/thread/ManageableObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/src/main/java/com/kp/thread/ManageableObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/target/classes/com/kp/common/data/message/IMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/target/classes/com/kp/common/data/message/IMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/target/classes/com/kp/common/data/message/MessageHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/target/classes/com/kp/common/data/message/ObjectHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/target/classes/com/kp/common/utilities/StringUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/target/classes/com/kp/common/utilities/StringUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/target/classes/com/kp/common/worker/KWorkerPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/target/classes/com/kp/common/worker/KWorkerPool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/target/classes/com/kp/common/worker/impl/DisruptorWorkerPool$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/target/classes/com/kp/common/worker/impl/DisruptorWorkerPool$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/target/classes/com/kp/common/worker/impl/DisruptorWorkerPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/target/classes/com/kp/common/worker/impl/DisruptorWorkerPool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/target/classes/com/kp/common/worker/impl/KWorkerHanlder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/target/classes/com/kp/common/worker/impl/KWorkerHanlder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPCommon/target/classes/com/kp/common/worker/message/KMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPCore.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPCore.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/KPDiameter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/KPDiameter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/controller/DisconnectCause.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/controller/DisconnectCause.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/controller/IPeer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/controller/IPeer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/helper/UIDGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/helper/UIDGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/Answer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/Answer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/AvpDataException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/AvpDataException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/ResultCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/ResultCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/URI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/URI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/impl/ApplicationId.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/impl/ApplicationId.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/impl/MessageImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/impl/MessageImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/impl/parser/Avp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/impl/parser/Avp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/impl/parser/AvpSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/impl/parser/AvpSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/impl/parser/IDMessageParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/impl/parser/IDMessageParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/impl/parser/IElementParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/impl/parser/IElementParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/impl/parser/MessageUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/impl/parser/MessageUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/impl/parser/impl/AvpImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/impl/parser/impl/AvpImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/impl/parser/impl/AvpSetImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/impl/parser/impl/AvpSetImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/impl/parser/impl/ElementParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/impl/parser/impl/ElementParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/impl/parser/impl/MessageParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/impl/parser/impl/MessageParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/impl/parser/impl/ParseException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/message/impl/parser/impl/ParseException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/validation/AvpNotAllowedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/validation/AvpNotAllowedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/validation/AvpRepresentation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/validation/AvpRepresentation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/validation/Dictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/validation/Dictionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/validation/MessageRepresentation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/validation/MessageRepresentation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/validation/impl/AvpRepresentationImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/validation/impl/AvpRepresentationImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/validation/impl/DictionaryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/validation/impl/DictionaryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/validation/impl/DictionarySingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/validation/impl/DictionarySingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/validation/impl/MessageRepresentationImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/src/main/java/com/kp/diameter/api/validation/impl/MessageRepresentationImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/target/classes/com/kp/diameter/api/message/impl/MessageImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/target/classes/com/kp/diameter/api/message/impl/MessageImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/target/classes/com/kp/diameter/api/message/impl/parser/impl/AvpSetImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/target/classes/com/kp/diameter/api/message/impl/parser/impl/AvpSetImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/target/classes/com/kp/diameter/api/message/impl/parser/impl/MessageParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPDiameter/target/classes/com/kp/diameter/api/message/impl/parser/impl/MessageParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/KPMessageQueue.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/KPMessageQueue.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/bak/com/k/rabbit/client/RabbitMQChannelHandleDelegate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/src/main/java/com/kp/com/kp/messaging/rabbit/client/RabbitMQChannelHandleDelegate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/bak/com/k/rabbit/client/RabbitMQChannelHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/src/main/java/com/kp/com/kp/messaging/rabbit/client/RabbitMQChannelHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/bak/com/k/rabbit/client/RabbitMQChannelWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/src/main/java/com/kp/com/kp/messaging/rabbit/client/RabbitMQChannelWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/bak/com/k/rabbit/client/RabbitMQDeliveredMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/src/main/java/com/kp/com/kp/messaging/rabbit/client/RabbitMQDeliveredMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/bak/com/k/rabbit/client/RabbitMQQueueConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/src/main/java/com/kp/com/kp/messaging/rabbit/client/RabbitMQQueueConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/bak/com/k/rabbit/client/connection/LoadBalancingStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/src/main/java/com/kp/com/kp/messaging/rabbit/client/connection/LoadBalancingStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/bak/com/k/rabbit/client/connection/RabbitMQConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/src/main/java/com/kp/com/kp/messaging/rabbit/client/connection/RabbitMQConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/bak/com/k/rabbit/client/connection/RabbitMQConnectionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/src/main/java/com/kp/com/kp/messaging/rabbit/client/connection/RabbitMQConnectionFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/bak/com/k/rabbit/client/connection/RabbitMQConnectionGen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/src/main/java/com/kp/com/kp/messaging/rabbit/client/connection/RabbitMQConnectionGen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/bak/com/k/rabbit/client/connection/WrapRabbitMQConnectPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/src/main/java/com/kp/com/kp/messaging/rabbit/client/connection/WrapRabbitMQConnectPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/bak/com/k/rabbit/client/consumer/RabbitMQConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/src/main/java/com/kp/com/kp/messaging/rabbit/client/consumer/RabbitMQConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/bak/com/k/rabbit/client/consumer/RabbitMQRPCConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/src/main/java/com/kp/com/kp/messaging/rabbit/client/consumer/RabbitMQRPCConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/bak/com/k/rabbit/client/consumer/RabbitMQRoutingConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/src/main/java/com/kp/com/kp/messaging/rabbit/client/consumer/RabbitMQRoutingConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/bak/com/k/rabbit/client/consumer/RabbitMQWorkerConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/src/main/java/com/kp/com/kp/messaging/rabbit/client/consumer/RabbitMQWorkerConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/bak/com/k/rabbit/client/producer/RabbitMQProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/src/main/java/com/kp/com/kp/messaging/rabbit/client/producer/RabbitMQProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/bak/com/k/rabbit/client/producer/RabbitMQRPCProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/src/main/java/com/kp/com/kp/messaging/rabbit/client/producer/RabbitMQRPCProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/bak/com/k/rabbit/client/producer/RabbitMQRoutingProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/src/main/java/com/kp/com/kp/messaging/rabbit/client/producer/RabbitMQRoutingProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/bak/com/k/rabbit/client/producer/RabbitMQRoutingRPCProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/src/main/java/com/kp/com/kp/messaging/rabbit/client/producer/RabbitMQRoutingRPCProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/bak/com/k/rabbit/client/producer/RabbitMQTaskProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/src/main/java/com/kp/com/kp/messaging/rabbit/client/producer/RabbitMQTaskProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/bak/com/k/rabbit/client/producer/RabbitProducerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/src/main/java/com/kp/com/kp/messaging/rabbit/client/producer/RabbitProducerFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/bak/com/k/rabbit/client/producer/RabbitProducerPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/src/main/java/com/kp/com/kp/messaging/rabbit/client/producer/RabbitProducerPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPMessageQueue/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPNetwork/KPNetwork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPNetwork/KPNetwork.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPNetwork/src/main/java/com.kp/network/protocol/netty/client/NettyClientConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPNetwork/src/main/java/com.kp/network/protocol/netty/client/NettyClientConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPNetwork/src/main/java/com.kp/network/protocol/utilities/IPConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPNetwork/src/main/java/com.kp/network/protocol/utilities/IPConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPNetwork/target/classes/com/kp/network/protocol/netty/client/NettyClientConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPNetwork/target/classes/com/kp/network/protocol/netty/client/NettyClientConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPPojoCustom/KPPojoCustom.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPPojoCustom/KPPojoCustom.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPPojoCustom/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPPojoCustom/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPPojoCustom/src/main/java/com/kp/pojo/ClassUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPPojoCustom/src/main/java/com/kp/pojo/ClassUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPPojoCustom/src/main/java/com/kp/pojo/SetterMethodSignature.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPPojoCustom/src/main/java/com/kp/pojo/SetterMethodSignature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPPojoCustom/src/main/java/com/kp/pojo/json/JsonProxyRegister.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPPojoCustom/src/main/java/com/kp/pojo/json/JsonProxyRegister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPPojoCustom/target/classes/com/kp/pojo/ClassUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPPojoCustom/target/classes/com/kp/pojo/ClassUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPPojoCustom/target/classes/com/kp/pojo/SetterMethodSignature.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPPojoCustom/target/classes/com/kp/pojo/SetterMethodSignature.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPPojoCustom/target/classes/com/kp/pojo/json/JsonProxyRegister.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPPojoCustom/target/classes/com/kp/pojo/json/JsonProxyRegister.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPScript/KPScript.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPScript/KPScript.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPTaskmanager/KPTaskmanager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPTaskmanager/KPTaskmanager.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPTaskmanager/src/main/java/com/kp/taskmanager/manager/ThreadManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPTaskmanager/src/main/java/com/kp/taskmanager/manager/ThreadManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPTaskmanager/src/main/java/com/kp/taskmanager/manager/processor/DefaultProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPTaskmanager/src/main/java/com/kp/taskmanager/manager/processor/DefaultProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPTaskmanager/src/main/java/com/kp/taskmanager/network/codec/VOMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPTaskmanager/src/main/java/com/kp/taskmanager/network/codec/VOMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPTaskmanager/target/classes/com/kp/taskmanager/manager/ThreadManager$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPTaskmanager/target/classes/com/kp/taskmanager/manager/ThreadManager$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPTaskmanager/target/classes/com/kp/taskmanager/manager/ThreadManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPTaskmanager/target/classes/com/kp/taskmanager/manager/ThreadManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPTaskmanager/target/classes/com/kp/taskmanager/network/codec/VOMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPTaskmanager/target/classes/com/kp/taskmanager/network/codec/VOMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPTest/KPTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPTest/KPTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPTest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPTest/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPTest/src/main/java/com/kp/test/StringMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPTest/src/main/java/com/kp/test/StringMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/KPTest/target/classes/com/kp/test/StringMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/KPTest/target/classes/com/kp/test/StringMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/KPCore/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/KPCore/pom.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1SXVMycvkUhgzbvXY1NIlrn5p7L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/app/views/admin/account/users-manager" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/node_modules/protractor" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app/views/admin/account" />
+      <recent name="$PROJECT_DIR$/src/app/services/autho" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app/views/admin/account/users-manager" />
+      <recent name="$PROJECT_DIR$/src/app/customizes/services" />
+      <recent name="$PROJECT_DIR$/src/app/views/admin/account" />
+      <recent name="$PROJECT_DIR$/src/app/views/admin/users" />
+      <recent name="$PROJECT_DIR$/src/app" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Tests (ng)" type="JavaScriptTestRunnerKarma">
+      <config-file value="$PROJECT_DIR$/karma.conf.js" />
+      <karma-package-dir value="$PROJECT_DIR$/node_modules/@angular/cli" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="E2E Tests (ng-e2e)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-package value="$PROJECT_DIR$/node_modules/protractor" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c7ba545-e4fc-401a-aa37-a945e28853d7" name="Default Changelist" comment="" />
+      <created>1571709884055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571709884055</updated>
+      <workItem from="1571709888477" duration="158000" />
+      <workItem from="1571710069464" duration="3946000" />
+      <workItem from="1571714416601" duration="21649000" />
+      <workItem from="1571800975838" duration="12063000" />
+      <workItem from="1571819451972" duration="6661000" />
+      <workItem from="1571879104807" duration="459000" />
+      <workItem from="1571880529193" duration="27601000" />
+      <workItem from="1571968404397" duration="1686000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/app/views/admin/users/users.module.ts</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/app/views/admin/account/change-password/change-password.component.ts</url>
+          <line>48</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/app/services/autho/auth.service.ts</url>
+          <line>63</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
