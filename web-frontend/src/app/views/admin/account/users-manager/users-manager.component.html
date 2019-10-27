@@ -16,7 +16,7 @@
   <basic-table-view [canUpdate]="canUpdate" [extendMenuItems]="menuItems" (menuClick)="onMenuItemClick($event)"
                     selectionMode="multiple"
                     [isTreeTable]="false" header="header.account_manager" [colsdesc]="cols" [hasSearch]="true"
-                    dataKey="name" [data]="data"
+                    dataKey="userId" [data]="data"
                     [searchFormDescription]="searchFormDescription" [updateFormDescription]="updateFormDescription"
                     [createFormDescription]="createFormDescription"
                     (applyUpdate)="update($event)" (applyCreate)="create($event)" [maxRowInPage]="maxRowInPage"
