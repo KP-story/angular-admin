@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gennerator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/Gennerator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/Gennerator.jar!/" />
+    </SOURCES>
+  </library>
+</component>

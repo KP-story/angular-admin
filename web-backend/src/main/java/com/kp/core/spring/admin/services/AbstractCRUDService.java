@@ -22,6 +22,8 @@ public abstract class AbstractCRUDService<Bean, ID, Repository extends BaseRepo<
 //        actionAuditDtlService.saveLog(bean.getClass(), rtActionAudit.getId(), lstAuditDTO);
 //    }
 
+
+
     @Override
     public Bean save(Bean bean) throws Exception {
         return repository.save(bean);
@@ -30,6 +32,12 @@ public abstract class AbstractCRUDService<Bean, ID, Repository extends BaseRepo<
     @Override
     public Iterable<Bean> saveAll(Iterable<Bean> beanIterable) throws Exception {
         return repository.saveAll(beanIterable);
+    }
+
+    @Override
+    public void deleteAllBeansInBatch(List< Bean> beans) {
+             repository.deleteInBatch(beans);
+
     }
 
     @Override

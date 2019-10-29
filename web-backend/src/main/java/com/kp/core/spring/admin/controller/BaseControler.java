@@ -14,6 +14,7 @@ import org.springframework.data.domain.Pageable;
 
 import java.sql.Timestamp;
 import java.time.LocalDateTime;
+import java.util.List;
 
 
 public abstract class BaseControler<Bean, ID, Repo extends BaseRepo<Bean, ID>, Service extends CURDService<Bean, ID, Repo>> implements Loggable {
@@ -107,7 +108,30 @@ public abstract class BaseControler<Bean, ID, Repo extends BaseRepo<Bean, ID>, S
     public ResponseMsg getById(ID id) throws Exception {
         return ResponseMsg.newOKResponse(getBeanName(), getService().findById(id));
     }
+    public ResponseMsg deleteMulti(List<Bean> ids) throws Exception {
+        try{
+            getService().deleteAll(ids);
 
+        }catch (Exception e)
+        {
+            getLogger().error("deleteMulti",e);
+            return ResponseMsg.newResponse(ResultCode.INTERNAL_SERVER_ERROR);
+
+        }
+        return ResponseMsg.newOKResponse();
+    }
+    public ResponseMsg deleteMultiInBatch(List<Bean> ids) throws Exception {
+        try{
+            getService().deleteAllBeansInBatch(ids);
+
+        }catch (Exception e)
+        {
+            getLogger().error("deleteMultiInBatch",e);
+            return ResponseMsg.newResponse(ResultCode.INTERNAL_SERVER_ERROR);
+
+        }
+        return ResponseMsg.newOKResponse();
+    }
     public abstract void merge(Bean newBean, Bean currentBean);
 
     public ResponseMsg update(ID id, Bean bean) throws Exception {

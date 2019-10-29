@@ -23,6 +23,7 @@ public interface CURDService<Bean, ID, Repository extends BaseRepo<Bean, ID>> {
     boolean deleteBean(Bean bean);
 
     boolean deleteAllBeans(List<? extends Bean> beans);
+    void deleteAllBeansInBatch(List< Bean> beans);
 
     boolean deleteAll2();
 
